@@ -8,8 +8,8 @@ I’m a Senior DevOps Engineer (CKA) with strong hands-on AWS experience and a g
 ---
 
 ## Quick snapshot
-- Role: Senior DevOps Engineer
-- Certifications: Certified Kubernetes Administrator (CKA), AWS Certified CloudOps Engineer - Associate, AWS Certified AI Practitioner
+- Role: Staff DevOps Engineer
+- Certifications: Certified Kubernetes Administrator (CKA), AWS Certified CloudOps Engineer - Associate, AWS Certified Solutions Architect - Associate, AWS Certified AI Practitioner
 - Interests: Generative AI, AWS architecture, Infrastructure as Code, GitOps, observability, security
 - Current goal: Transition to Cloud Solutions Architect with strong GenAI production skills and interview readiness
 
@@ -141,7 +141,7 @@ Recommended resources
 
 ## Contact
 - GitHub: https://github.com/iam-gummadi
-- LinkedIn: www.linkedin.com/in/divya-gummadi-6bb687b2
+- LinkedIn: www.linkedin.com/in/dgummadi
 - Email: dgummadi22@gmail.com
 
 ---
