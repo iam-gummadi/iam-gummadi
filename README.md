@@ -3,7 +3,7 @@
 [![CKA](https://img.shields.io/badge/CKA-Certified-339933?style=flat&logo=kubernetes)](https://www.cncf.io/certification/cka/)
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-yes-blue.svg)]()
 
-I’m a Senior DevOps Engineer (CKA) with strong hands-on AWS experience and a growing focus on Generative AI. My day-to-day work centers on cloud-native platforms, automation, reliability, and production-grade architectures. I’m intentionally expanding into GenAI to become a Cloud Solutions Architect who can design secure, scalable, cost-aware AI-enabled systems and perform confidently in interviews.
+I’m a Lead DevOps Engineer (CKA) with strong hands-on AWS experience and a growing focus on Generative AI. My day-to-day work centers on cloud-native platforms, automation, reliability, and production-grade architectures. I’m intentionally expanding into GenAI to become a Cloud Solutions Architect who can design secure, scalable, cost-aware AI-enabled systems and perform confidently in interviews.
 
 ---
 
